@@ -337,7 +337,8 @@
 			<visual>
 				<origin xyz="0 0 0" rpy="0 0 0" />
 				<geometry>
-					<mesh filename="package://complete_soft_hand/meshes/palm_hand.stl" scale=" .001 .001 .001" /> 
+					<!-- <mesh filename="package://complete_soft_hand/meshes/palm_hand.stl" scale=" .001 .001 .001" /> --> 
+					<mesh filename="package://complete_soft_hand/meshes/palm_hand2.stl" scale=" .001 .001 .001" />
 				</geometry>
 				<material name="LightGrey" />
 			</visual>
